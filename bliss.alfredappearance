@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#DCDDDCFF",
+        "font" : "Avenir Next",
+        "color" : "#BFC4CEFF"
+      },
+      "shortcut" : {
+        "size" : 18,
+        "colorSelected" : "#8EA0B3FF",
+        "font" : "Avenir Next",
+        "color" : "#BFC4CEFF"
+      },
+      "backgroundSelected" : "#3A4150FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#DCDDDCFF",
+        "font" : "Avenir Next",
+        "color" : "#BFC4CEFF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 15,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#2A2F3BFF",
+      "spacing" : 26,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Avenir Next",
+        "color" : "#BFC4CEFF"
+      },
+      "backgroundSelected" : "#D8D8DBFF"
+    },
+    "window" : {
+      "color" : "#2A2F3BFF",
+      "paddingHorizontal" : 10,
+      "width" : 600,
+      "borderPadding" : 9,
+      "borderColor" : "#2A2F3BFF",
+      "blur" : 40,
+      "roundness" : 10,
+      "paddingVertical" : 10
+    },
+    "credit" : "Saad Quadri",
+    "separator" : {
+      "color" : "#2A2F3BFF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#B2B2B2FF",
+      "thickness" : 2
+    },
+    "name" : "Bliss"
+  }
+}
